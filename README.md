@@ -61,7 +61,7 @@ Esta posición se utiliza principalmente para:
 
 ![Configuración Home1 del Motoman MH6](Fotos/HOME1.jpg)
     
-![Configuración Home1 valores](Fotos/WHomeP.jpg)
+![Configuración Home1 valores](Fotos/WHome.jpg)
 
 ---
 
@@ -74,7 +74,7 @@ Esta configuración se utiliza para:
 
 ![Configuración Home2 del Motoman MH6](Fotos/HOME2.jpg)
     
-![Configuración Home2 valores](Fotos/WHome.jpg)
+![Configuración Home2 valores](Fotos/WHomeP.jpg)
 
 ---
 
