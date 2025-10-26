@@ -19,7 +19,7 @@ Los manipuladores industriales constituyen una herramienta esencial en la automa
 
 Con ello, se busca integrar las competencias prácticas y teóricas de la asignatura, fomentando la comprensión de la programación, operación y análisis de robots industriales en un entorno académico-profesional.
 
-[gif](Fotos/GIF LAB2.1.gif)
+![Simulación del laboratorio 2](Fotos/GIF%20LAB2.1.gif)
 
 🎥 [Ver simulación en YouTube](https://youtu.be/cUpMpt-YG90)
 
