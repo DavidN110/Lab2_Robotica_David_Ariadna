@@ -19,7 +19,7 @@ Los manipuladores industriales constituyen una herramienta esencial en la automa
 
 Con ello, se busca integrar las competencias prácticas y teóricas de la asignatura, fomentando la comprensión de la programación, operación y análisis de robots industriales en un entorno académico-profesional.
 
-[gif](Fotos/GIF LAB2.1)
+[gif](Fotos/GIF LAB2.1.gif)
 
 🎥 [Ver simulación en YouTube](https://youtu.be/cUpMpt-YG90)
 
@@ -353,10 +353,10 @@ flowchart TD
     D --> E[Definicion de parametros A, k, num_points y z_safe]
     E --> F[Movimiento inicial a Home2]
     F --> G[Inicio de dibujo de trayectoria polar]
-    G --> H[Calcular r = A * cos(k*theta)]
-    H --> I[Convertir coordenadas X, Y]
+    G --> H[Calcular r segun funcion coseno]
+    H --> I[Convertir coordenadas X e Y]
     I --> J[Ejecutar movimiento lineal MoveL]
-    J -->|Repetir hasta completar 2*pi| G
+    J -->|Repetir hasta completar vuelta completa| G
     J --> K[Finalizar figura y subir eje Z]
     K --> L[Escribir nombres ARIADNA y DAVID]
     L --> M[Retornar a posicion segura Home2]
