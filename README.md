@@ -337,27 +337,26 @@ for i in range(num_points + 1):
 robot.MoveL(transl(x, y, z_surface - z_safe))
 print(f"¡Figura (rosa polar) completada en el frame '{frame_name}'!")
 ```
-El código completo, incluyendo la sección adicional que escribe los nombres ARIADNA y DAVID, se encuentra en el archivo ![Código Pyhton(Docs/Python-Lab2.py)] y el archivo de RoboDk en ![Archivo RoboDK(Docs/Robodk-Lab2.rdk)]
+El código completo, incluyendo la sección adicional que escribe los nombres ARIADNA y DAVID, se encuentra en el archivo ![Código Pyhton](Docs/Python-Lab2.py) y el archivo de RoboDk en ![Archivo RoboDK](Docs/Robodk-Lab2.rdk)
 
 ### Diagrama de flujo (Mermaid)
 ```mermaid
 flowchart TD
-    A[Inicio] --> B[Conexión a RoboDK]
-    B --> C[Selección del robot Motoman MH6]
-    C --> D[Configuración del Frame y herramienta]
-    D --> E[Definición de parámetros (A, k, num_points, z_safe)]
+    A[Inicio] --> B[Conexion a RoboDK]
+    B --> C[Seleccion del robot Motoman MH6]
+    C --> D[Configuracion del Frame y herramienta]
+    D --> E[Definicion de parametros A, k, num_points y z_safe]
     E --> F[Movimiento inicial a Home2]
     F --> G[Inicio de dibujo de trayectoria polar]
-    G --> H[Calcular r = A*cos(kθ)]
-    H --> I[Convertir coordenadas (x, y)]
+    G --> H[Calcular r = A * cos(k * theta)]
+    H --> I[Convertir coordenadas X, Y]
     I --> J[Ejecutar movimiento lineal MoveL]
-    J -->|Loop hasta θ = 2π| G
+    J -->|Repetir hasta completar 2*pi| G
     J --> K[Finalizar figura y subir eje Z]
-    K --> L[Escribir nombres "ARIADNA" y "DAVID"]
-    L --> M[Retornar a posición segura Home2]
-    M --> N[Fin de ejecución]
+    K --> L[Escribir nombres ARIADNA y DAVID]
+    L --> M[Retornar a posicion segura Home2]
+    M --> N[Fin de ejecucion]
 ```
-
 ---
 
 ## 9. Conclusiones
