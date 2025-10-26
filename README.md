@@ -54,7 +54,7 @@ Estas configuraciones facilitan el reconocimiento del espacio de trabajo y previ
 
 ### 🔹 Home1
 Corresponde a la **posición de referencia inicial o de calibración**.  
-En esta configuración, las articulaciones se ubican con ángulos cercanos a **cero grados**, lo que coloca al manipulador en una postura compacta y simétrica respecto a su base.  
+En esta configuración, las articulaciones se ubican cercanas, lo que coloca al manipulador en una postura compacta y simétrica respecto a su base.  
 Esta posición se utiliza principalmente para:
 - Calibrar el sistema y verificar el correcto funcionamiento de los encoders.  
 - Realizar procedimientos de mantenimiento o verificación de límites articulares.  
@@ -67,7 +67,7 @@ Esta posición se utiliza principalmente para:
 ---
 
 ### 🔹 Home2
-Es la **posición de seguridad o de intercambio de herramienta**, en la cual las articulaciones se orientan de forma que el robot se extienda parcialmente hacia adelante, maximizando el **espacio libre entre los eslabones** y facilitando el acceso al efector final.  
+Es la **posición de seguridad o de intercambio de herramienta**, en la cual las articulaciones con ángulos cercanos a **cero grados** se orientan de forma que el robot se extienda parcialmente hacia adelante, maximizando el **espacio libre entre los eslabones** y facilitando el acceso al efector final.  
 Esta configuración se utiliza para:
 - Realizar **cambios de herramienta o piezas** de manera segura.  
 - Ubicar el robot en una postura alejada de la base para **evitar colisiones** con la mesa o periféricos.  
@@ -365,9 +365,9 @@ flowchart TD
 ```
 ---
 
-## 9. Conclusiones
-Reflexión general sobre los aprendizajes, retos y observaciones del laboratorio.
-
+## 9. Plano de planta de la ubicaci´on de cada uno de los elementos
+INSERTAR IMAGENES AQUI COMO EL EJEMPLO, PRIMERO SUBE A LA CARPETA DE FOTOS Y AGREGA EL NOMBRE Y PON ATENCIÓN EN LA TERMINACION DEL DOCU .PNG .JPG .GIF
+![Configuración Home1 valores](Fotos/WHome.jpg)
 ---
 
 ## 📘 Referencias
