@@ -19,6 +19,11 @@ Los manipuladores industriales constituyen una herramienta esencial en la automa
 
 Con ello, se busca integrar las competencias prácticas y teóricas de la asignatura, fomentando la comprensión de la programación, operación y análisis de robots industriales en un entorno académico-profesional.
 
+[gif](Fotos/GIF LAB2.1)
+
+🎥 [Ver simulación en YouTube](https://youtu.be/cUpMpt-YG90)
+
+
 ---
 
 ## 2. 🧾 Cuadro comparativo – Motoman MH6 vs ABB IRB140
@@ -348,7 +353,7 @@ flowchart TD
     D --> E[Definicion de parametros A, k, num_points y z_safe]
     E --> F[Movimiento inicial a Home2]
     F --> G[Inicio de dibujo de trayectoria polar]
-    G --> H[Calcular r = A * cos(k * theta)]
+    G --> H[Calcular r = A * cos(k*theta)]
     H --> I[Convertir coordenadas X, Y]
     I --> J[Ejecutar movimiento lineal MoveL]
     J -->|Repetir hasta completar 2*pi| G
