@@ -371,6 +371,7 @@ INSERTAR IMAGENES AQUI COMO EL EJEMPLO, PRIMERO SUBE A LA CARPETA DE FOTOS Y AGR
 ---
 
 ## 📘 Referencias
-- Manual técnico del Motoman MH6 – Yaskawa Electric Corporation  
-- Manual técnico ABB IRB140 – ABB Robotics  
+- Manuel d’instructions REFERENCIA PARA Tabla de instrucciones básicas Programación y reproducción simplificadas Listado de alarmas DX100– Yaskawa Electric Corporation  
+- Presentaciones Programación y Operación Básica Teach Pendant DX 100 Manipulador Motoman MH6 - FUNDAMENTOS DE ROBÓTICA INDUSTRIAL Ricardo E. Ramírez, Dr.-Ing. Pedro F. Cárdenas, Ph. D. UNAL
+- ROBOTICS Product specification IRB 140 – ABB Robotics  
 - Documentación del Laboratorio de Robótica Industrial – UNAL 2025-II
