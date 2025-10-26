@@ -5,8 +5,8 @@
 **Asignatura:** Robótica Industrial  
 **Periodo:** 2025-II  
 **Integrantes:**  
-- [Tu Nombre]  
-- [Nombre de tu compañero]
+- Ariadna Contreras Nossa 
+- David Santiago Nagles Barajas
 
 ---
 
