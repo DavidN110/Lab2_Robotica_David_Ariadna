@@ -60,9 +60,15 @@ Esta posición se utiliza principalmente para:
 - Realizar procedimientos de mantenimiento o verificación de límites articulares.  
 - Estandarizar la posición de partida antes de ejecutar programas automáticos.
 
-![Configuración Home1 del Motoman MH6](Fotos/HOME1.jpg)
-    
-![Configuración Home1 valores](Fotos/WHome.jpg)
+### **Configuración Home1 del Motoman MH6**  
+<p align="center">
+  <img src="Fotos/HOME1.jpg" alt="Configuración Home1 del Motoman MH6" width="80%" />
+</p>
+
+### **Configuración Home1 valores**  
+<p align="center">
+  <img src="Fotos/WHome.jpg" alt="Configuración Home1 valores" width="60%" />
+</p>
 
 ---
 
@@ -73,9 +79,16 @@ Esta configuración se utiliza para:
 - Ubicar el robot en una postura alejada de la base para **evitar colisiones** con la mesa o periféricos.  
 - Establecer una posición segura intermedia antes de ejecutar trayectorias automáticas.
 
-![Configuración Home2 del Motoman MH6](Fotos/HOME2.jpg)
-    
-![Configuración Home2 valores](Fotos/WHomeP.jpg)
+### **Configuración Home2 del Motoman MH6**  
+<p align="center">
+  <img src="Fotos/HOME2.jpg" alt="Configuración Home2 del Motoman MH6" width="75%" />
+</p>
+
+### **Configuración Home2 valores**  
+<p align="center">
+  <img src="Fotos/WHomeP.jpg" alt="Configuración Home2 valores" width="60%" />
+</p>
+
 
 ---
 
