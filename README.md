@@ -365,23 +365,30 @@ flowchart TD
 ```
 ---
 
-## 9. Plano de planta de la ubicaci´on de cada uno de los elementos
+## 9. Plano de planta de la ubicación de cada uno de los elementos
 
 A continuación se presetan 3 vistas de la planta para este laboratorio listados de la siguiente forma: 
 
-###Vista superior: 
-![Vista Superior](Fotos/planta_vista_superior.png)
+**Vista superior**  
+<p align="center">
+  <img src="Fotos/planta_vista_superior.png" alt="Vista Superior" width="100%" />
+</p>
 
-###Vista Inferior:
-![Vista Superior](Fotos/planta_vista_superior.png)
-###Vista Lateral: 
-![Vista Superior](Fotos/planta_vista_superior.png)
+ **Vista inferior**  
+<p align="center">
+  <img src="Fotos/planta_vista_inferior.png" alt="Vista Inferior" width="100%" />
+</p>
+
+ **Vista lateral**  
+<p align="center">
+  <img src="Fotos/planta_vista_lateral.png" alt="Vista Lateral" width="100%" />
+</p>
 
 
 ---
 
 ## 📘 Referencias
-- Manuel d’instructions REFERENCIA PARA Tabla de instrucciones básicas Programación y reproducción simplificadas Listado de alarmas DX100– Yaskawa Electric Corporation  
+- Manual de instructions REFERENCIA PARA Tabla de instrucciones básicas Programación y reproducción simplificadas Listado de alarmas DX100– Yaskawa Electric Corporation  
 - Presentaciones Programación y Operación Básica Teach Pendant DX 100 Manipulador Motoman MH6 - FUNDAMENTOS DE ROBÓTICA INDUSTRIAL Ricardo E. Ramírez, Dr.-Ing. Pedro F. Cárdenas, Ph. D. UNAL
 - ROBOTICS Product specification IRB 140 – ABB Robotics  
 - Documentación del Laboratorio de Robótica Industrial – UNAL 2025-II
