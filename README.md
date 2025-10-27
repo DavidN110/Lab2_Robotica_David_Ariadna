@@ -367,21 +367,21 @@ flowchart TD
 
 ## 9. Plano de planta de la ubicación de cada uno de los elementos
 
-A continuación se presetan 3 vistas de la planta para este laboratorio listados de la siguiente forma: 
+A continuación se presentan 3 vistas de la planta utilizada para el desarrollo de este laboratorio:
 
 **Vista superior**  
 <p align="center">
-  <img src="Fotos/planta_vista_superior.png" alt="Vista Superior" width="100%" />
+  <img src="Fotos/planta_vista_superior.png" alt="Vista Superior" width="80%" />
 </p>
 
  **Vista inferior**  
 <p align="center">
-  <img src="Fotos/planta_vista_inferior.png" alt="Vista Inferior" width="100%" />
+  <img src="Fotos/planta_vista_inferior.png" alt="Vista Inferior" width="80%" />
 </p>
 
  **Vista lateral**  
 <p align="center">
-  <img src="Fotos/planta_vista_lateral.png" alt="Vista Lateral" width="100%" />
+  <img src="Fotos/planta_vista_lateral.png" alt="Vista Lateral" width="80%" />
 </p>
 
 
