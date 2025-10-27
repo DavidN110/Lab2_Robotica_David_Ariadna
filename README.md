@@ -81,12 +81,12 @@ Esta configuración se utiliza para:
 
 ### **Configuración Home2 del Motoman MH6**  
 <p align="center">
-  <img src="Fotos/HOME2.jpg" alt="Configuración Home2 del Motoman MH6" width="75%" />
+  <img src="Fotos/HOME2.jpg" alt="Configuración Home2 del Motoman MH6" width="50%" />
 </p>
 
 ### **Configuración Home2 valores**  
 <p align="center">
-  <img src="Fotos/WHomeP.jpg" alt="Configuración Home2 valores" width="60%" />
+  <img src="Fotos/WHomeP.jpg" alt="Configuración Home2 valores" width="50%" />
 </p>
 
 
