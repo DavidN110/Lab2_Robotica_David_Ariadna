@@ -366,8 +366,18 @@ flowchart TD
 ---
 
 ## 9. Plano de planta de la ubicaci´on de cada uno de los elementos
-INSERTAR IMAGENES AQUI COMO EL EJEMPLO, PRIMERO SUBE A LA CARPETA DE FOTOS Y AGREGA EL NOMBRE Y PON ATENCIÓN EN LA TERMINACION DEL DOCU .PNG .JPG .GIF
-![Configuración Home1 valores](Fotos/WHome.jpg)
+
+A continuación se presetan 3 vistas de la planta para este laboratorio listados de la siguiente forma: 
+
+###Vista superior: 
+![Vista Superior](Fotos/planta_vista_superior.png)
+
+###Vista Inferior:
+![Vista Superior](Fotos/planta_vista_superior.png)
+###Vista Lateral: 
+![Vista Superior](Fotos/planta_vista_superior.png)
+
+
 ---
 
 ## 📘 Referencias
